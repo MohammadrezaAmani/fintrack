@@ -12,5 +12,5 @@ services:
       - ./config:/app/config:z
       - ./fintrack:/app/fintrack:z
     ports:
-      - '9000:9000'
+      - "9000:9000"
     command: /start-docs
