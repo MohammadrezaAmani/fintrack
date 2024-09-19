@@ -1,13 +1,4 @@
 # ruff: noqa
-"""
-ASGI config for fintrack project.
-
-It exposes the ASGI callable as a module-level variable named ``application``.
-
-For more information on this file, see
-https://docs.djangoproject.com/en/dev/howto/deployment/asgi/
-
-"""
 
 import os
 import sys
